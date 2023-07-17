@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "typescript",
+			"tsconfig": "../../../../../../E:/engennering/Web/Js-master/TS/MatchingGames/tsconfig.json",
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "build",
+			"label": "tsc: build - ../../../../../../E:/engennering/Web/Js-master/TS/MatchingGames/tsconfig.json"
+		}
+	]
+}
